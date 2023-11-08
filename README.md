@@ -2,7 +2,7 @@
 
 An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
-## Try me!8576
+## Try me!85
 
 ```
 brew tap srcclr/srcclr
